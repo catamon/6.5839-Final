@@ -1,0 +1,13 @@
+query_key,combination by table
+"['101100', ('img1_table', '000100'), ('electric_vehicles', '000000'), ('disease_indicators', '000000')]"
+"['101011', ('img1_table', '000000'), ('electric_vehicles', '000000'), ('disease_indicators', '001011')]"
+"['100101', ('img1_table', '000000'), ('electric_vehicles', '000101'), ('disease_indicators', '000000')]"
+"['011100', ('img1_table', '011100'), ('electric_vehicles', '001100'), ('disease_indicators', '001100')]"
+"['011001', ('img1_table', '010000'), ('electric_vehicles', '000000'), ('disease_indicators', '010000')]"
+"['011000', ('img1_table', '000000'), ('electric_vehicles', '001000'), ('disease_indicators', '001000')]"
+"['010101', ('img1_table', '000000'), ('electric_vehicles', '000000'), ('disease_indicators', '010000')]"
+"['010100', ('img1_table', '010100'), ('electric_vehicles', '000000'), ('disease_indicators', '000100')]"
+"['010001', ('img1_table', '000000'), ('electric_vehicles', '000000'), ('disease_indicators', '010000')]"
+"['010000', ('img1_table', '010000'), ('electric_vehicles', '000000'), ('disease_indicators', '000000')]"
+"['001100', ('img1_table', '000100'), ('electric_vehicles', '001100'), ('disease_indicators', '001100')]"
+"['000100', ('img1_table', '000100'), ('electric_vehicles', '000000'), ('disease_indicators', '000100')]"
